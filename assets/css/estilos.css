@@ -13,25 +13,20 @@ body {
 
 /* Mis trabajos */
 
-.image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-.image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-.image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+
+
+.card {
+  height: 600px;
+  overflow: hidden;
 }
 
+.card .image-top {
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 /* Contacto */
 
 #Contacto form label {
